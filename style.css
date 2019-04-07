@@ -1,0 +1,30 @@
+/**
+ * User Virtual Generator
+ * @author Martin Dobry
+ * @link http://webscript.cz
+ * @version 1.0
+ */
+
+body {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+div.user {
+	border: 1px black solid;
+	padding: 10px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+img.portrait {
+	width: 300px;
+}
