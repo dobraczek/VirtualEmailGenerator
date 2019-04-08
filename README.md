@@ -1,4 +1,4 @@
-Generator of random people profiles with avatar.
+Generator of random people profiles with non-existing pictures.
 
 Example:
 
