@@ -1,0 +1,16 @@
+{
+    "name": "VirtualUserGenerator",
+    "description": "Generator of random people profiles with non-existing pictures.",
+    "keywords": ["people generator"],
+    "homepage": "https://github.com/dobraczek/VirtualUserGenerator",
+    "license": "LGPL 2.1",
+    "authors": [
+        {
+            "name": "Martin Dobrý",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": ["UserVirtualGenerator.php"]
+    }
+}
