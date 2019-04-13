@@ -1,9 +1,6 @@
-Generator of random people profiles with non-existing pictures.
+Generátor náhodných profilů lidí z neexistující fotografií.
 
-Renerátor náhodných profilů lidí z neexistující fotografií.
-
-
-Example/Ukázka:
+Ukázka:
 
 http://webscript.cz/VirtualUserGenerator/
 
