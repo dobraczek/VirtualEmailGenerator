@@ -1,4 +1,4 @@
-Generátor náhodných profilů lidí z neexistující fotografií.
+Generátor náhodných profilů lidí s neexistující fotografií.
 
 Ukázka:
 
